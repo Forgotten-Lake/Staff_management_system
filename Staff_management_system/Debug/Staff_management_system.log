@@ -1,0 +1,26 @@
+﻿  boss.cpp
+D:\uif25032\100_C++\ZZHC_C++\Staff_management_system\Staff_management_system\boss.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\uif25032\100_C++\ZZHC_C++\Staff_management_system\Staff_management_system\worker.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  employee.cpp
+D:\uif25032\100_C++\ZZHC_C++\Staff_management_system\Staff_management_system\employee.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\uif25032\100_C++\ZZHC_C++\Staff_management_system\Staff_management_system\worker.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  manager.cpp
+D:\uif25032\100_C++\ZZHC_C++\Staff_management_system\Staff_management_system\manager.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\uif25032\100_C++\ZZHC_C++\Staff_management_system\Staff_management_system\manager.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\uif25032\100_C++\ZZHC_C++\Staff_management_system\Staff_management_system\worker.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Staff_management_system.cpp
+D:\uif25032\100_C++\ZZHC_C++\Staff_management_system\Staff_management_system\Staff_management_system.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\uif25032\100_C++\ZZHC_C++\Staff_management_system\Staff_management_system\workerManager.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\uif25032\100_C++\ZZHC_C++\Staff_management_system\Staff_management_system\worker.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\uif25032\100_C++\ZZHC_C++\Staff_management_system\Staff_management_system\employee.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\uif25032\100_C++\ZZHC_C++\Staff_management_system\Staff_management_system\manager.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\uif25032\100_C++\ZZHC_C++\Staff_management_system\Staff_management_system\boss.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  workerManager.cpp
+D:\uif25032\100_C++\ZZHC_C++\Staff_management_system\Staff_management_system\workerManager.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\uif25032\100_C++\ZZHC_C++\Staff_management_system\Staff_management_system\workerManager.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\uif25032\100_C++\ZZHC_C++\Staff_management_system\Staff_management_system\worker.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\uif25032\100_C++\ZZHC_C++\Staff_management_system\Staff_management_system\employee.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\uif25032\100_C++\ZZHC_C++\Staff_management_system\Staff_management_system\manager.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\uif25032\100_C++\ZZHC_C++\Staff_management_system\Staff_management_system\boss.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  Staff_management_system.vcxproj -> D:\uif25032\100_C++\ZZHC_C++\Staff_management_system\Debug\Staff_management_system.exe
